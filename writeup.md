@@ -163,7 +163,7 @@ I computed the radius of curvature of the lane and the position of the vehicle w
 
 I implemented this step in lines 43 through 60 in my code in `main.py` in the function `process_frame()`.  Here is an example of my result on a test image:
 
-![alt text][image6]
+![alt text][image11]
 
 ---
 
